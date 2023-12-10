@@ -1,0 +1,19 @@
+{
+    "firstName": "Sumanta",
+    "lastName": "Swain",
+    "age": 21,
+    "address": [ 
+        {
+            "streetAddress": "Patia",
+            "city": "Bhubaneswar",
+            "state": "Odisha",
+            "postalCode": "751024"
+        },
+        {
+            "streetAddress": "CDA-9",
+            "city": "Cuttack",
+            "state": "Odisha",
+            "postalCode": "752122"
+        }
+    ]
+}
